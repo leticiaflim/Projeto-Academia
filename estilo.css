@@ -1,0 +1,57 @@
+body{
+    font-family: 'Noto Sans', sans-serif;
+    background-color: #d7d2fd;
+    color: #543ef8;
+    display: flex;
+    justify-content: center;
+    font-size: 28px;
+}
+
+input{
+    width: 90%;
+    padding: 16px 10px;
+    background-color: #b5adf4;
+    border: none;
+    border-radius: 10px;
+    font-size: 26px;   
+}
+
+button{
+    width: 90%;
+    padding: 26px 0px;
+    border: none;
+    border-radius: 8px;
+    text-transform: uppercase;
+    font-weight: 800;
+    letter-spacing: 3px;
+    background-color: #8e81f8;
+}
+
+label{
+    font-size: 23px;
+    color: #381ef6;;
+}
+
+section{
+    margin-top: 15px;
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    flex-direction: column;
+    padding: -15px 5px;
+    border-radius: 40px;
+    box-shadow: 0px 10px 40px #00000056;
+}
+
+textarea{
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    flex-direction: column;
+    padding: 30px 5px;
+    border-radius: 30px;
+    background-color: #c7c2eb;
+    font-size: 20px;
+}
